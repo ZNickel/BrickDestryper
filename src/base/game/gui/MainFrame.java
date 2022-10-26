@@ -2,7 +2,7 @@ package base.game.gui;
 
 import base.game.logic.GameRun;
 import base.game.logic.Geometry;
-import base.game.objects.Scene;
+import base.game.logic.Scene;
 
 import javax.swing.*;
 import java.awt.*;
